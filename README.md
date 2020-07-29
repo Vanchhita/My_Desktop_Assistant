@@ -1,0 +1,2 @@
+# My_Desktop_Assistant
+Having said that, how cool it would be to build a simple voice-based desktop or laptop assistant that has the capability to- Open any website in the browser,Send an email to your contacts,Launch any system application,Tells you the current time,Play you a song on VLC media player,Do calculations for you,Click your photo,Record video for you,and Tells you about almost anything you ask. So here in this project, we are going to build a voice-based application [I call her Heli] which is capable of doing all the above-mentioned tasks.
